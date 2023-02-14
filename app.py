@@ -23,7 +23,7 @@ def Welcome():
     return render_template("dashboard.html")
 
 
-@app.route('/botitas', methods=['POST'])
+@app.route('/botitas', methods=['GET', 'POST'])
 def botita():
     data = json.loads(request.data)
     if data['passphrase'] != config.WEBHOOK_PASPHRASE:
