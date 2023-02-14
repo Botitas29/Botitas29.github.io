@@ -1,0 +1,4 @@
+API_KEY = "tHF4wfaygfuEIB3oaIz7KbovrNEQrgPAYrXKfp00Sjwf9L1E8wbnTQIryledAsWy"
+SECRET_KEY = "ms9INmiTtsxDU2y5vsYWBRWQ1JLqQ8t4TPcAeODqFk1yUcJhSbPha4P6hkOPKXjt"
+
+WEBHOOK_PASPHRASE = "brybrybry"
